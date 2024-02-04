@@ -24,7 +24,7 @@ A step by step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
 
-git clone https://github.com/huynhvogiakhang/s3-monitoring-service
+git clone https://github.com/huynhvogiakhang/upload-s3-monitoring-service
 
 2. Navigate into the project directory:
 
