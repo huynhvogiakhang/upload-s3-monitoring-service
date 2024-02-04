@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"usernames\":\"khang4\"\n}",
+					"raw": "{\n    \"username\":\"khang\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -42,7 +42,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtoYW5nNCIsImlhdCI6MTcwNzAzMzg1N30.qwSBuelzQnkOowxjZeDayrRUtDfIBEXFN9AlUt90hQU",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtoYW5nNCIsImlhdCI6MTcwNzAzMzg1N30.qwSBuelzQnkOowxjZeDayrRUtDfIBEXFN9AlUt90hQUss",
 							"type": "string"
 						}
 					]
@@ -55,7 +55,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/Users/huynhvogiakhang/Desktop/Ảnh màn hình 2023-10-17 lúc 00.13.31.png"
+							"src": []
 						}
 					]
 				},
