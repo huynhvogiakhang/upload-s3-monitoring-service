@@ -37,11 +37,11 @@ export class UploadService {
     userData.currentUsage += file.size;
     await this.usersRepository.save(userData);
 
-    // const uploadResult = await this.s3Service.uploadFile(
-    //   file.buffer,
-    //   this.configService.get<string>('S3_BUCKET_NAME'),
-    //   file.originalname,
-    // );
+    const uploadResult = await this.s3Service.uploadFile(
+      file.buffer,
+      this.configService.get<string>('S3_BUCKET_NAME'),
+      file.originalname,
+    );
 
     return userFile;
   }
