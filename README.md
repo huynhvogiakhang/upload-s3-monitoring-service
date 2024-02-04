@@ -66,7 +66,7 @@ The application will be accessible at http://localhost:3000, and the database wi
 
 ### API
 
-Swagger Document: [http://localhost:3000/api](http://localhost:3000/api)
+Swagger Document: [http://localhost:3000/swagger](http://localhost:3000/swagger)
 
 Our API provides two main endpoints:
 
